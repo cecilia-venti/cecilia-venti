@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there. 👋
 
-<!--
-**cecilia-venti/cecilia-venti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-venti&layout=compact" alt="Top Langs" />
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=cecilia-venti&show_icons=true" alt="Cecilia's GitHub Stats" />
+</span>
+<br /><br />
+
+![](https://badges.pufler.dev/visits/cecilia-venti/cecilia-venti?style=flat-square&logo=github)
+![](https://badges.pufler.dev/years/cecilia-venti?style=flat-square&logo=github)
+![](https://badges.pufler.dev/repos/cecilia-venti?style=flat-square&logo=github)
+![](https://badges.pufler.dev/commits/monthly/cecilia-venti?style=flat-square&logo=github)
